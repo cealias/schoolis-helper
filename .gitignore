@@ -1,0 +1,18 @@
+# 编译产物
+.build/
+.swiftpm/
+*.xcodeproj/
+
+# 只在作者自己电脑上用的文件（有个人信息，不公开）
+本机说明.md
+实施方案.md
+设计评审.md
+icon-build/
+
+# 演示数据是脚本生成的
+Demo/
+
+.DS_Store
+
+# Claude Code 本地文件
+.claude/
